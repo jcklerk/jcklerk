@@ -1,6 +1,6 @@
 ### Welcome to my GitHub account.
 
-I'm Justin Klerk, a Software Developter student at Landstede MBO Hardewijk.
+I'm Justin Klerk, a Software Developter student at Windesheim HBO ICT Zwolle and previously student at Landstede MBO Hardewijk.
 
 Cutently working on a lot of private projects on this account and for some organizations.
 
